@@ -2,7 +2,8 @@
 
 ## About the game
 
-Chess 2 is a modified version of Chess by Oats Jenkins in 2022.
+Chess 2 is a modified version of Chess by Oats Jenkins in 2022.                   
+But I modified some rules. Play to find out which ones.                            
 
 
 ## How To Run
