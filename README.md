@@ -19,22 +19,27 @@ And run in the main Chess2.0 directory:
 ```
 make
 ```
+Then
+
+```
+make clean
+```
 
 Afterwards:
 
 ```
-./Chess2.out
+./Chess2
 ```
 
 
 ## How to play
 
-Use the arrow keys to navigate
-Use Enter to select and move 
-Use ESC to exit the section you're in
+Use the arrow keys to navigate              
+Use Enter to select and move                     
+Use ESC to exit the section you're in                  
 
 
 ## References
 
-The game references can be found in the pdf file
-[About NCurses in Wikipedia](https://en.wikipedia.org/wiki/Ncurses)
+The game references can be found in the pdf file               
+[About NCurses in Wikipedia](https://en.wikipedia.org/wiki/Ncurses)                  
